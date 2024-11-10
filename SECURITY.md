@@ -2,9 +2,6 @@
 
 ## Reporting a Vulnerability
 
-To report a security issue, please use the GitHub Security Advisory "Report a Vulnerability" tab.
-
+To report a security issue, please go to `Security / Reporting / Advisories`.
 
 Thank you
-
-
