@@ -1,6 +1,6 @@
 # Guidelines to contribute
 
-I use my free time to work on it, I highly appreciate any kind of contribution.
+Any contribution is greatly appreciated!
 
 ## Contribute
 
@@ -24,4 +24,4 @@ I use my free time to work on it, I highly appreciate any kind of contribution.
 1. Push to the branch: `git push origin my-new-feature`
 1. Submit a pull request :D
 
-Thanks for you contribution❤️
+Thanks for your contribution! ❤️
