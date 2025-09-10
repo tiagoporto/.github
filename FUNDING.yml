@@ -1,7 +1,7 @@
 github: tiagoporto
 custom: [
     # https://www.paypal.com/donate/?business=YTDUQ8RZ2G4Q8&no_recurring=0&item_name=Help+increase+my+motivation+for+open+source.%0ACheers%21%21%21%21%21&currency_code=BRL
-    https://encr.pw/paypal-donation,
-    # https://raw.githubusercontent.com/tiagoporto/gerador-validador-cpf/refs/heads/main/src/site/components/Donate/img/BTCQR.png
-    https://encr.pw/bitcoin-wallet,
+    https://sl1nk.com/paypal-donate,
+    # https://raw.githubusercontent.com/tiagoporto/gerador-validador-cpf/refs/heads/main/site/src/components/Header/components/Donate/img/BTCQR.png
+    https://sl1nk.com/btc-wallet,
   ]
